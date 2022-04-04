@@ -1,0 +1,30 @@
+{
+    "collection": {
+        "document": {
+            "key": "value",
+            "collection": {
+                "document": {
+                    "key": "value"
+                }
+
+            }
+        }
+    }
+}
+
+
+// database examplified
+
+{
+    "mainDB": {
+        "username": {
+            "firstname": "collins",
+            "weighthistory": {
+                "timestamp": {
+                    "weight": "collins"
+                }
+
+            }
+        }
+    }
+}
